@@ -25,5 +25,5 @@ This project requires `vcpkg` a package manager to be installed. VCPKG is used t
 17.  When starting a client, give this client a new ID.
 
 Ready! Launch new clients, the variance will be automatically recalculated.
-Shards have 5 values. Values are hardcoded. Everything can be changed in the source code.
+Shards have 5 values. Values count are hardcoded. Everything can be changed in the source code.
 Values are generated randomly.
